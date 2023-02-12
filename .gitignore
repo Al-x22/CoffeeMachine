@@ -1,2 +1,9 @@
-# Project exclude paths
-/.gradle/
+# Default ignored files
+# Ignore Gradle project-specific cache directory
+.gradle
+build
+bin
+
+# Ignore IDE
+.idea
+.vscode
